@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mTarik12/monster-rolodex-react-/static/css/main.9071e617.chunk.css",
+    "main.js": "/mTarik12/monster-rolodex-react-/static/js/main.7736188b.chunk.js",
+    "main.js.map": "/mTarik12/monster-rolodex-react-/static/js/main.7736188b.chunk.js.map",
+    "runtime-main.js": "/mTarik12/monster-rolodex-react-/static/js/runtime-main.820df1f9.js",
+    "runtime-main.js.map": "/mTarik12/monster-rolodex-react-/static/js/runtime-main.820df1f9.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/mTarik12/monster-rolodex-react-/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/mTarik12/monster-rolodex-react-/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/mTarik12/monster-rolodex-react-/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/mTarik12/monster-rolodex-react-/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/mTarik12/monster-rolodex-react-/index.html",
+    "static/css/main.9071e617.chunk.css.map": "/mTarik12/monster-rolodex-react-/static/css/main.9071e617.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/mTarik12/monster-rolodex-react-/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820df1f9.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.9071e617.chunk.css",
+    "static/js/main.7736188b.chunk.js"
+  ]
+}
